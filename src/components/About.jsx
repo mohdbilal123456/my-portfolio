@@ -44,7 +44,7 @@ const About = () => {
             </p>
 
             <a
-              href="./public/resume.pdf"
+              href="/resume.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block mt-4 bg-gradient-to-r from-purple-600 to-pink-500 text-white py-3 px-8 rounded-full font-bold text-lg 
