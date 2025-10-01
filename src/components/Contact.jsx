@@ -182,9 +182,7 @@ const Contact = () => {
                 </p>
               )}
 
-              <p className="text-center text-xs text-gray-500 mt-6">
-                *This form uses Formspree for submission. Replace the endpoint URL above with your own.
-              </p>
+              
             </form>
           </div>
         </div>
