@@ -1,5 +1,5 @@
 import React from "react";
-import profileImageUrl from "../assets/myphoto.png"; // apna image path
+import profileImageUrl from "../assets/myphoto2.png"; // apna image path
 
 const About = () => {
   const tiltEffectStyles =
@@ -40,7 +40,7 @@ const About = () => {
               <img
                 src={profileImageUrl}
                 alt="Mohd Bilal Profile"
-                className="w-full h-full object-cover object-center "
+                className="w-full h-full object-cover object-center  "
               />
             </div>
           </div>
