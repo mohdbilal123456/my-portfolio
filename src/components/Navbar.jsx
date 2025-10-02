@@ -32,14 +32,15 @@ const Navbar = () => {
         <div className="flex justify-between items-center h-20">
           
           {/* Logo / Name */}
-          <div className="flex-shrink-0">
+          <div className="flex-shrink-0 ">
             <a href="#home" onClick={() => handleLinkClick('home')} className="text-3xl font-extrabold text-white tracking-wider">
               <span className="text-purple-400">Mohd</span> <span className="text-cyan-400">Bilal</span>
             </a>
           </div>
 
           {/* Desktop Navigation Links (Visible on medium screens and up) */}
-          <div className="hidden md:flex space-x-6 lg:space-x-10">
+          {/* CHANGE: space-x-6 ko hata kar md:space-x-4 aur lg:space-x-10 set kiya */}
+          <div className="hidden md:flex md:space-x-3 lg:space-x-10">
             {navLinks.map((link) => (
               <a
                 key={link.id}

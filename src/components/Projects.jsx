@@ -55,7 +55,7 @@ export default function Projects() {
         <h2 className="text-4xl md:text-5xl font-extrabold text-center mb-4 text-purple-400">
           PROJECTS
         </h2>
-        <div className="w-24 h-1 bg-cyan-400 mx-auto mb-16"></div>
+        <div className="w-24 h-1 bg-pink-500 mx-auto mb-16"></div>
         <p className="text-center text-gray-400 max-w-3xl mx-auto mb-16 px-4 text-lg">
           MERN Stack Developer ke roop mein, main complex problems ko solve karne aur user-centric applications banane mein vishwas rakhta hoon. Yeh mere kuch khaas projects hain:
         </p>

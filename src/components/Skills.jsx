@@ -37,7 +37,7 @@ const Skills = () => (
       <h2 className="text-4xl md:text-5xl font-extrabold text-purple-400">
         SKILLS
       </h2>
-      <div className="w-24 h-1 bg-purple-400 mx-auto mt-2"></div>
+      <div className="w-24 h-1 bg-pink-500 mx-auto mt-2"></div>
       <p className="text-gray-400 mt-4 text-lg max-w-3xl mx-auto">
         A collection of my technical skills and expertise honed through various projects and experiences.
       </p>
