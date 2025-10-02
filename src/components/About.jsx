@@ -84,7 +84,7 @@ const About = () => {
                           shadow-2xl shadow-purple-900/50 hover:from-purple-500 hover:to-pink-400 
                           transition-all duration-300 transform hover:scale-[1.02] active:scale-95"
             >
-              Download CV
+              Download Resume
             </a>
           </div>
 
