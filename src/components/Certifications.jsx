@@ -36,7 +36,7 @@ const CertificationsInfo = [
     date: "Aug 2023",
     link: "/certificates/certificate2.png", // Replace '#' with the actual verification URL or credential link
     description:
-      "Specialized training in modern React concepts, including Hooks, Context API, and advanced component lifecycle management.",
+      "Certified in Node.js – Gained hands-on experience in building server-side applications, RESTful APIs, authentication, and database integration using Node.js and Express.js.",
     icon: Award,
     color: "text-purple-500",
   },

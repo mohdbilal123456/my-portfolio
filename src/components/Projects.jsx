@@ -57,7 +57,7 @@ export default function Projects() {
         </h2>
         <div className="w-24 h-1 bg-pink-500 mx-auto mb-16"></div>
         <p className="text-center text-gray-400 max-w-3xl mx-auto mb-16 px-4 text-lg">
-          MERN Stack Developer ke roop mein, main complex problems ko solve karne aur user-centric applications banane mein vishwas rakhta hoon. Yeh mere kuch khaas projects hain:
+         I focus on building responsive and user-friendly interfaces, optimizing performance, and deploying applications on platforms such as Netlify and Render. These projects highlight my ability to design and implement end-to-end solutions with modern development practices.
         </p>
 
         {/* Projects Grid (Already fixed aspect ratio) */}
