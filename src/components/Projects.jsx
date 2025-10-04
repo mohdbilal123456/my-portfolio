@@ -14,8 +14,8 @@ const projects = [
     description: `I’ve recently built OneCart, a complete MERN stack e-commerce application. This project features full user authentication, product management, secure payment integration, and a comprehensive admin panel for order tracking and inventory management.`,
     image: placeholderImage1,
     tech: ["MERN Stack", "Context API", "Tailwind CSS"],
-    liveLink: "https://new-one-cart-frontend.onrender.com/",
-    codeLink: "https://github.com/mohdbilal123456/New-One-Cart",
+    liveLink: "https://updated-onecart.netlify.app",
+    codeLink: "https://github.com/mohdbilal123456/updated-OneCart",
   },
   {
     id: 2,
