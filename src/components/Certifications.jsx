@@ -33,7 +33,7 @@ const CertificationsInfo = [
   {
     title: "Node Js Developer ",
     issuer: "Pw Skills", // Replace with actual platform
-    date: "Aug 2023",
+    date: "Aug 2025",
     link: "/certificates/certificate2.png", // Replace '#' with the actual verification URL or credential link
     description:
       "Certified in Node.js – Gained hands-on experience in building server-side applications, RESTful APIs, authentication, and database integration using Node.js and Express.js.",
