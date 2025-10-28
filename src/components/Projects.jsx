@@ -5,6 +5,7 @@ import { Github, ExternalLink, X } from 'lucide-react';
 import placeholderImage1 from '../assets/project1.png'
 import placeholderImage3 from '../assets/project3.png'
 import placeholderImage2 from '../assets/project2.png'
+import placeholderImage4 from '../assets/project4.webp'
 
 
 const projects = [
@@ -19,6 +20,15 @@ const projects = [
   },
   {
     id: 2,
+    title: "CodeVista LMS Portal",
+    description: "CodeVista is a full-featured Learning Management System (LMS) built using the MERN stack, offering AI-powered course search, secure payments via Razorpay, and role-based dashboards for students and educators — designed to make online learning smarter and seamless.",
+    image: placeholderImage4,
+    tech: ["MongoDB","Express Js","React JS", "Redux Toolkit", "Tailwind CSS"],
+    liveLink: "https://lms-1-vcui.onrender.com/",
+    codeLink: "https://github.com/mohdbilal123456/LMS",
+  },
+  {
+    id: 3,
     title: "Food Delivery Application",
     description: "Frontend food ordering application simulating Zomato/Swiggy. It includes dynamic routing, menu display, cart functionality, and uses Redux Toolkit for efficient state management across components, providing a seamless ordering experience.",
     image: placeholderImage3,
@@ -27,7 +37,7 @@ const projects = [
     codeLink: "https://github.com/mohdbilal123456/Food-Delivery-App",
   },
   {
-    id: 3,
+    id: 4,
     title: "AI Virtual Assistance",
     description: `Voice-based AI virtual assistant built using React and the Gemini API. This application processes speech input, interacts with the LLM model to generate responses, and provides audio output, demonstrating proficiency in integrating advanced AI services.`,
     image: placeholderImage2,
